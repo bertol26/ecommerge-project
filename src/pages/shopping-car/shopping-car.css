@@ -1,0 +1,44 @@
+.car-wrapper {
+    width: 100%;
+    max-width: 1460px;
+    margin: 0 auto;
+    padding: 0px 0px 25px 25px;
+}
+
+.main-car {
+    width: 100%;
+}
+
+.car-header {
+    border-bottom: 1px solid rgb(184, 184, 184);
+}
+
+.car-header div {
+    font-weight: bold;
+}
+
+.product-img {
+    width: 90px;
+}
+
+.hr-product {
+    border: 0.5px solid #d2d2d2;
+    width: 100%;
+}
+
+.price-review-main {
+    height: 100vh;
+}
+
+.price-review {
+    background: rgb(233, 233, 233);
+    height: 100%;
+    padding: 20px;
+    position: fixed;
+    width: 68vh;
+    max-width: 588px;
+}
+
+.btn-buy {
+    width: 100%;
+}
